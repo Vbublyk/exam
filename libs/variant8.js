@@ -5,7 +5,7 @@
  * @param {Array} x
  * @Return {Number[]} size
  */
-export function arraySize (x) {
+ export function arraySize (x) {
   const s = []
 
   while (Array.isArray(x)) {
